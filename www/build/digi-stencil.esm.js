@@ -1,0 +1,2 @@
+import{p as t,b as r}from"./p-22c1b2d0.js";export{s as setNonce}from"./p-22c1b2d0.js";import{g as a}from"./p-e1255160.js";var o=()=>{const s=import.meta.url;const r={};if(s!==""){r.resourcesUrl=new URL(".",s).href}return t(r)};o().then((async t=>{await a();return r([["p-3a72298b",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]],["p-b580ffc0",[[1,"y-button",{variant:[1],size:[1]}]]]],t)}));
+//# sourceMappingURL=digi-stencil.esm.js.map

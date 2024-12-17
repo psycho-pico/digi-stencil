@@ -1,0 +1,14 @@
+:host {
+    display: inline-block;
+}
+
+button {
+    font-family: inherit;
+    font-size: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    transition: background-color 0.3s ease;
+}
